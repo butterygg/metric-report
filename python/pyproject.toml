@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 name = "my_project"
 version = "0.1.0"
 description = ""
-readme = "README.md"
+readme = "../README.md"
 license = ""
 authors = [
   { name="Your Name", email="you@example.com" }
