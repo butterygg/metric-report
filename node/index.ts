@@ -1,9 +1,12 @@
 import fetch from "node-fetch";
+import fs from "fs";
 
 // --- Constants ---
 const PROJECTS: { [name: string]: string } = {
   "Rocket Pool": "rocket-pool",
   SuperForm: "superform",
+  Balancer: "balancer",
+  Beets: "beets",
   Avantis: "avantis",
   Polynomial: "polynomial-protocol",
   "Extra Finance": "extra-finance",
@@ -67,16 +70,23 @@ interface DefiLlamaApiResponse {
  * @param {string} protocolSlug The slug of the protocol to fetch.
  * @returns {Promise<DefiLlamaApiResponse>} The API response.
  */
-const fetchProtocolData = async (protocolSlug: string): Promise<DefiLlamaApiResponse> => {
+const fetchProtocolData = async (
+  protocolSlug: string,
+): Promise<DefiLlamaApiResponse> => {
   const apiUrl = `https://api.llama.fi/protocol/${protocolSlug}`;
   try {
     const response = await fetch(apiUrl);
     if (!response.ok) {
-      throw new Error(`Failed to fetch data for ${protocolSlug}: ${response.statusText}`);
+      throw new Error(
+        `Failed to fetch data for ${protocolSlug}: ${response.statusText}`,
+      );
     }
     return (await response.json()) as DefiLlamaApiResponse;
   } catch (error) {
-    console.error(`Error fetching from DefiLlama API for ${protocolSlug}:`, error);
+    console.error(
+      `Error fetching from DefiLlama API for ${protocolSlug}:`,
+      error,
+    );
     throw error;
   }
 };
@@ -88,12 +98,11 @@ const fetchProtocolData = async (protocolSlug: string): Promise<DefiLlamaApiResp
  * @returns {number} The total TVL in USD.
  */
 const getTvlOnDate = (data: DefiLlamaApiResponse, date: Date): number => {
-  let totalTvl = 0;
   const targetTimestamp = date.getTime() / 1000;
+  let totalTvl = 0;
 
   for (const chain in data.chainTvls) {
-    const chainName = chain.split("-")[0]; // Handle chains like 'Base-staking'
-    if (MAJOR_SUPERCHAIN_L2S.has(chainName)) {
+    if (MAJOR_SUPERCHAIN_L2S.has(chain)) {
       const tvlData = data.chainTvls[chain].tvl;
       const dayTvl = tvlData.find((d) => d.date === targetTimestamp);
       if (dayTvl) {
@@ -110,7 +119,10 @@ const getTvlOnDate = (data: DefiLlamaApiResponse, date: Date): number => {
  * @param {string} endDateStr The end date in 'YYYY-MM-DD' format.
  * @returns {number} The 7-day trailing average TVL.
  */
-const calculateTrailingAverageTvl = (data: DefiLlamaApiResponse, endDateStr: string): number => {
+const calculateTrailingAverageTvl = (
+  data: DefiLlamaApiResponse,
+  endDateStr: string,
+): number => {
   let totalTvlForPeriod = 0;
   const endDate = new Date(`${endDateStr}T00:00:00Z`);
 
@@ -126,7 +138,13 @@ const calculateTrailingAverageTvl = (data: DefiLlamaApiResponse, endDateStr: str
 // --- Main Execution ---
 
 const main = async () => {
-  const results: { [slug: string]: number | string } = {};
+  const results: {
+    [slug: string]: { start: number; end: number; difference: number } | string;
+  } = {};
+  const csvRows: string[] = [];
+
+  // CSV header
+  csvRows.push("Protocol,Start Value,End Value,Difference");
 
   for (const name in PROJECTS) {
     const slug = PROJECTS[name];
@@ -135,21 +153,39 @@ const main = async () => {
       const protocolData = await fetchProtocolData(slug);
 
       const t_end = calculateTrailingAverageTvl(protocolData, METRIC_END_DATE);
-      const t_start = calculateTrailingAverageTvl(protocolData, METRIC_START_DATE);
-
-      console.log(`T(${METRIC_END_DATE}) = $${t_end.toFixed(2)}`);
-      console.log(`T(${METRIC_START_DATE}) = $${t_start.toFixed(2)}`);
+      const t_start = calculateTrailingAverageTvl(
+        protocolData,
+        METRIC_START_DATE,
+      );
 
       const difference = t_end - t_start;
 
-      results[slug] = difference;
-      console.log(`Result for ${slug}: ${difference}`);
+      results[slug] = {
+        start: t_start,
+        end: t_end,
+        difference,
+      };
+      console.log(
+        `Start: ${t_start.toFixed(2)}, End: ${t_end.toFixed(2)}, Difference: ${difference.toFixed(2)}`,
+      );
+
+      // Add to CSV
+      csvRows.push(
+        `"${name}",${Math.round(t_start)},${Math.round(t_end)},${Math.round(difference)}`,
+      );
     } catch (error) {
       results[slug] = "Error processing project";
       console.error(`Failed to process ${name}:`, error);
+      csvRows.push(`"${name}",Error,Error`);
     }
     console.log("\n");
   }
+
+  // Write CSV file
+  const csvContent = csvRows.join("\n");
+  const csvFilename = `protocol_tvl_results_${METRIC_START_DATE}_to_${METRIC_END_DATE}.csv`;
+  fs.writeFileSync(csvFilename, csvContent);
+  console.log(`CSV file saved as: ${csvFilename}`);
 
   console.log("\n--- Final Results ---");
   console.log(JSON.stringify(results, null, 2));
