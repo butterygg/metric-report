@@ -95,11 +95,12 @@ const fetchProtocolData = async (
  * Calculates the total TVL for a specific date across major Superchain L2s.
  * @param {DefiLlamaApiResponse} data The API response data.
  * @param {Date} date The target date.
- * @returns {number} The total TVL in USD.
+ * @returns {number | null} The total TVL in USD, or null if no data found.
  */
-const getTvlOnDate = (data: DefiLlamaApiResponse, date: Date): number => {
+const getTvlOnDate = (data: DefiLlamaApiResponse, date: Date): number | null => {
   const targetTimestamp = date.getTime() / 1000;
   let totalTvl = 0;
+  let hasData = false;
 
   for (const chain in data.chainTvls) {
     if (MAJOR_SUPERCHAIN_L2S.has(chain)) {
@@ -107,10 +108,11 @@ const getTvlOnDate = (data: DefiLlamaApiResponse, date: Date): number => {
       const dayTvl = tvlData.find((d) => d.date === targetTimestamp);
       if (dayTvl) {
         totalTvl += dayTvl.totalLiquidityUSD;
+        hasData = true;
       }
     }
   }
-  return totalTvl;
+  return hasData ? totalTvl : null;
 };
 
 /**
@@ -124,15 +126,20 @@ const calculateTrailingAverageTvl = (
   endDateStr: string,
 ): number => {
   let totalTvlForPeriod = 0;
+  let nonNullDays = 0;
   const endDate = new Date(`${endDateStr}T00:00:00Z`);
 
   for (let i = 0; i < TRAILING_DAYS; i++) {
     const date = new Date(endDate);
     date.setUTCDate(date.getUTCDate() - i);
-    totalTvlForPeriod += getTvlOnDate(data, date);
+    const dayTvl = getTvlOnDate(data, date);
+    if (dayTvl !== null) {
+      totalTvlForPeriod += dayTvl;
+      nonNullDays++;
+    }
   }
 
-  return totalTvlForPeriod / TRAILING_DAYS;
+  return nonNullDays > 0 ? totalTvlForPeriod / nonNullDays : 0;
 };
 
 // --- Main Execution ---
