@@ -1,0 +1,39 @@
+[project]
+name = "metric-report"
+version = "0.1.0"
+description = "CLI to compute HYPE/USDC 12h TWAP from Hyperliquid Info API and write artifacts"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [
+  { name = "CFM", email = "devnull@example.com" }
+]
+dependencies = []
+
+[project.scripts]
+hype-twap = "metric_report.cli:main_entry"
+
+[tool.mypy]
+python_version = "3.10"
+strict = true
+disallow_untyped_defs = true
+disallow_any_generics = true
+warn_unused_ignores = true
+warn_redundant_casts = true
+warn_return_any = true
+warn_unreachable = true
+no_implicit_optional = true
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"
+lint.select = [
+  "E","F","I","B","UP","SIM","PL","RUF"
+]
+lint.ignore = [
+  "E203",  # whitespace before ':'
+]
+
+[tool.pytest.ini_options]
+testpaths = ["test"]
+python_files = ["test_*.py"]
+
