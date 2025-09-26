@@ -1,0 +1,2022 @@
+{
+  "1700": {
+    "status": "OK",
+    "data": {
+      "apr": 0.0291402591190623,
+      "avgapr31d": 0.0297099906189754,
+      "avgapr7d": 0.029162271719842862,
+      "avgconsensus_rewards31d_wei": 2655967524694193548387,
+      "avgconsensus_rewards7d_wei": 2648866422218285714286,
+      "avgtx_fees31d_wei": 241188345979462420680,
+      "avgtx_fees7d_wei": 202976875730831829292,
+      "cl_apr": 0.0270911415098843,
+      "cl_avgapr31d": 0.027237418161369754,
+      "cl_avgapr7d": 0.027086718942360057,
+      "consensus_rewards_sum_wei": 2648949104811000000000,
+      "day": 1700,
+      "day_end": "2025-07-29T12:00:23Z",
+      "day_start": "2025-07-28T12:00:23Z",
+      "deposits_sum_wei": 7373651015922000000000,
+      "effective_balances_sum_wei": 35689394000000000000000000,
+      "el_apr": 0.002049117609178,
+      "el_avgapr31d": 0.0024725724576056415,
+      "el_avgapr7d": 0.0020755527774827995,
+      "end_balances_sum_wei": 35762808210992457000000000,
+      "start_balances_sum_wei": 35756437337308139000000000,
+      "total_rewards_wei": 2849310106746048005102,
+      "tx_fees_sum_wei": 200361001935048005102
+    }
+  },
+  "1701": {
+    "status": "OK",
+    "data": {
+      "apr": 0.029499906848444,
+      "avgapr31d": 0.029728799142057883,
+      "avgapr7d": 0.029159234106069916,
+      "avgconsensus_rewards31d_wei": 2657124097391741935484,
+      "avgconsensus_rewards7d_wei": 2651461971559000000000,
+      "avgtx_fees31d_wei": 243008729437252031138,
+      "avgtx_fees7d_wei": 199968642462423967244,
+      "cl_apr": 0.0272215555766493,
+      "cl_avgapr31d": 0.02723830392255972,
+      "cl_avgapr7d": 0.0271143447781295,
+      "consensus_rewards_sum_wei": 2661896878126000000000,
+      "day": 1701,
+      "day_end": "2025-07-30T12:00:23Z",
+      "day_start": "2025-07-29T12:00:23Z",
+      "deposits_sum_wei": 3893278914254000000000,
+      "effective_balances_sum_wei": 35692022000000000000000000,
+      "el_apr": 0.0022783512717947,
+      "el_avgapr31d": 0.0024904952194981646,
+      "el_avgapr7d": 0.0020448893279404147,
+      "end_balances_sum_wei": 35760993109188973000000000,
+      "start_balances_sum_wei": 35759093257920035000000000,
+      "total_rewards_wei": 2884688559541410685408,
+      "tx_fees_sum_wei": 222791681415410685408
+    }
+  },
+  "1702": {
+    "status": "OK",
+    "data": {
+      "apr": 0.0295864560970113,
+      "avgapr31d": 0.029735221869710452,
+      "avgapr7d": 0.028964715690586774,
+      "avgconsensus_rewards31d_wei": 2657491529836387096774,
+      "avgconsensus_rewards7d_wei": 2634276727667857142857,
+      "avgtx_fees31d_wei": 244303997536700302075,
+      "avgtx_fees7d_wei": 197998007975678416692,
+      "cl_apr": 0.0272051257386694,
+      "cl_avgapr31d": 0.027232196785638516,
+      "cl_avgapr7d": 0.02693986714983363,
+      "consensus_rewards_sum_wei": 2659961193828000000000,
+      "day": 1702,
+      "day_end": "2025-07-31T12:00:23Z",
+      "day_start": "2025-07-30T12:00:23Z",
+      "deposits_sum_wei": 10946216630180000000000,
+      "effective_balances_sum_wei": 35687607000000000000000000,
+      "el_apr": 0.0023813303583418,
+      "el_avgapr31d": 0.002503025084071935,
+      "el_avgapr7d": 0.0020248485407531143,
+      "end_balances_sum_wei": 35765410271012549000000000,
+      "start_balances_sum_wei": 35754698141253370000000000,
+      "total_rewards_wei": 2892794021131209612638,
+      "tx_fees_sum_wei": 232832827303209612638
+    }
+  },
+  "1703": {
+    "status": "OK",
+    "data": {
+      "apr": 0.0291127964235181,
+      "avgapr31d": 0.029706909141294476,
+      "avgapr7d": 0.029075502787475112,
+      "avgconsensus_rewards31d_wei": 2657435112059129032258,
+      "avgconsensus_rewards7d_wei": 2653007746919857142857,
+      "avgtx_fees31d_wei": 242527862835923502203,
+      "avgtx_fees7d_wei": 189993565140617679307,
+      "cl_apr": 0.0270667147927336,
+      "cl_avgapr31d": 0.02722289097220428,
+      "cl_avgapr7d": 0.027132422830837586,
+      "consensus_rewards_sum_wei": 2646377072158000000000,
+      "day": 1703,
+      "day_end": "2025-08-01T12:00:23Z",
+      "day_start": "2025-07-31T12:00:23Z",
+      "deposits_sum_wei": 3296000000000000000000,
+      "effective_balances_sum_wei": 35686918000000000000000000,
+      "el_apr": 0.0020460816307846,
+      "el_avgapr31d": 0.0024840181690902025,
+      "el_avgapr7d": 0.0019430799566375143,
+      "end_balances_sum_wei": 35757381282975318000000000,
+      "start_balances_sum_wei": 35754026860854487000000000,
+      "total_rewards_wei": 2846427338950096637043,
+      "tx_fees_sum_wei": 200050266792096637043
+    }
+  },
+  "1704": {
+    "status": "OK",
+    "data": {
+      "apr": 0.0291681139981223,
+      "avgapr31d": 0.02968119191513567,
+      "avgapr7d": 0.029143763068823554,
+      "avgconsensus_rewards31d_wei": 2657190528047064516129,
+      "avgconsensus_rewards7d_wei": 2653781709529714285714,
+      "avgtx_fees31d_wei": 241097453251916656828,
+      "avgtx_fees7d_wei": 195819399466605174721,
+      "cl_apr": 0.0271222418406295,
+      "cl_avgapr31d": 0.02721252732866942,
+      "cl_avgapr7d": 0.027141050008133872,
+      "consensus_rewards_sum_wei": 2651598840028000000000,
+      "day": 1704,
+      "day_end": "2025-08-02T12:00:23Z",
+      "day_start": "2025-08-01T12:00:23Z",
+      "deposits_sum_wei": 10892646059545000000000,
+      "effective_balances_sum_wei": 35684129000000000000000000,
+      "el_apr": 0.0020458721574928,
+      "el_avgapr31d": 0.0024686645864662542,
+      "el_avgapr7d": 0.0020027130606896713,
+      "end_balances_sum_wei": 35758955652739545000000000,
+      "start_balances_sum_wei": 35751272451602689000000000,
+      "total_rewards_wei": 2851612993412883754490,
+      "tx_fees_sum_wei": 200014153384883754490
+    }
+  },
+  "1705": {
+    "status": "OK",
+    "data": {
+      "apr": 0.0287017761819832,
+      "avgapr31d": 0.02964565094541001,
+      "avgapr7d": 0.029153929468885897,
+      "avgconsensus_rewards31d_wei": 2657455381145451612903,
+      "avgconsensus_rewards7d_wei": 2654216377441428571429,
+      "avgtx_fees31d_wei": 238086420351349224434,
+      "avgtx_fees7d_wei": 196262961035225853953,
+      "cl_apr": 0.0271608104948663,
+      "cl_avgapr31d": 0.02720841487549233,
+      "cl_avgapr7d": 0.027146616890477527,
+      "consensus_rewards_sum_wei": 2655284737754000000000,
+      "day": 1705,
+      "day_end": "2025-08-03T12:00:23Z",
+      "day_start": "2025-08-02T12:00:23Z",
+      "deposits_sum_wei": 9789012858894000000000,
+      "effective_balances_sum_wei": 35682990000000000000000000,
+      "el_apr": 0.0015409656871169,
+      "el_avgapr31d": 0.00243723606991768,
+      "el_avgapr7d": 0.002007312578408371,
+      "end_balances_sum_wei": 35756907802315539000000000,
+      "start_balances_sum_wei": 35747017433756802000000000,
+      "total_rewards_wei": 2805932034202587769483,
+      "tx_fees_sum_wei": 150647296448587769483
+    }
+  },
+  "1706": {
+    "status": "OK",
+    "data": {
+      "apr": 0.0294007389455684,
+      "avgapr31d": 0.029646455338582234,
+      "avgapr7d": 0.029230006801958513,
+      "avgconsensus_rewards31d_wei": 2661003530345612903226,
+      "avgconsensus_rewards7d_wei": 2668429980925857142857,
+      "avgtx_fees31d_wei": 235280498904397211694,
+      "avgtx_fees7d_wei": 189496903968773629229,
+      "cl_apr": 0.0281756982391661,
+      "cl_avgapr31d": 0.02723840841622865,
+      "cl_avgapr7d": 0.02729189831322835,
+      "consensus_rewards_sum_wei": 2754942039776000000000,
+      "day": 1706,
+      "day_end": "2025-08-04T12:00:23Z",
+      "day_start": "2025-08-03T12:00:23Z",
+      "deposits_sum_wei": 8819631601513000000000,
+      "effective_balances_sum_wei": 35688693000000000000000000,
+      "el_apr": 0.0012250407064023,
+      "el_avgapr31d": 0.002408046922353587,
+      "el_avgapr7d": 0.0019381084887301568,
+      "end_balances_sum_wei": 35761006602602878000000000,
+      "start_balances_sum_wei": 35752753520356406000000000,
+      "total_rewards_wei": 2874723140278178940439,
+      "tx_fees_sum_wei": 119781100502178940439
+    }
+  },
+  "1707": {
+    "status": "OK",
+    "data": {
+      "apr": 0.0278960414866898,
+      "avgapr31d": 0.02960935913705878,
+      "avgapr7d": 0.0290522614259053,
+      "avgconsensus_rewards31d_wei": 2658066329998225806452,
+      "avgconsensus_rewards7d_wei": 2656081652619428571429,
+      "avgtx_fees31d_wei": 235250204049407096918,
+      "avgtx_fees7d_wei": 184475756132625335550,
+      "cl_apr": 0.0262064320664786,
+      "cl_avgapr31d": 0.027202019665619196,
+      "cl_avgapr7d": 0.027165511249884682,
+      "consensus_rewards_sum_wei": 2562510806666000000000,
+      "day": 1707,
+      "day_end": "2025-08-05T12:00:23Z",
+      "day_start": "2025-08-04T12:00:23Z",
+      "deposits_sum_wei": 852619685091000000000,
+      "effective_balances_sum_wei": 35690339000000000000000000,
+      "el_apr": 0.0016896094202113,
+      "el_avgapr31d": 0.0024073394714395928,
+      "el_avgapr7d": 0.0018867501760206286,
+      "end_balances_sum_wei": 35755167240810401000000000,
+      "start_balances_sum_wei": 35754376118119565000000000,
+      "total_rewards_wei": 2727723773748009949350,
+      "tx_fees_sum_wei": 165212967082009949350
+    }
+  },
+  "1708": {
+    "status": "OK",
+    "data": {
+      "apr": 0.0291939297985318,
+      "avgapr31d": 0.029613653002273702,
+      "avgapr7d": 0.029008550418774984,
+      "avgconsensus_rewards31d_wei": 2658624211628096774194,
+      "avgconsensus_rewards7d_wei": 2656871943890142857143,
+      "avgtx_fees31d_wei": 235693101825640541156,
+      "avgtx_fees7d_wei": 179356267345697794678,
+      "cl_apr": 0.027281798005865,
+      "cl_avgapr31d": 0.02720214824158769,
+      "cl_avgapr7d": 0.027174117311201212,
+      "consensus_rewards_sum_wei": 2667428917021000000000,
+      "day": 1708,
+      "day_end": "2025-08-06T12:00:23Z",
+      "day_start": "2025-08-05T12:00:23Z",
+      "deposits_sum_wei": 2894240000000000000000,
+      "effective_balances_sum_wei": 35687221000000000000000000,
+      "el_apr": 0.0019121317926668,
+      "el_avgapr31d": 0.002411504760686019,
+      "el_avgapr7d": 0.001834433107573786,
+      "end_balances_sum_wei": 35754266168741054000000000,
+      "start_balances_sum_wei": 35751277996906821000000000,
+      "total_rewards_wei": 2854384176927917899302,
+      "tx_fees_sum_wei": 186955259906917899302
+    }
+  },
+  "1709": {
+    "status": "OK",
+    "data": {
+      "apr": 0.0289393491330485,
+      "avgapr31d": 0.029593753809333184,
+      "avgapr7d": 0.028916106566780297,
+      "avgconsensus_rewards31d_wei": 2658550125206258064516,
+      "avgconsensus_rewards7d_wei": 2657134980996285714286,
+      "avgtx_fees31d_wei": 234290897088017396362,
+      "avgtx_fees7d_wei": 170057069676441785269,
+      "cl_apr": 0.0272237911823826,
+      "cl_avgapr31d": 0.02719694281523259,
+      "cl_avgapr7d": 0.027176783803160243,
+      "consensus_rewards_sum_wei": 2661802453571000000000,
+      "day": 1709,
+      "day_end": "2025-08-07T12:00:23Z",
+      "day_start": "2025-08-06T12:00:23Z",
+      "deposits_sum_wei": 2537397442480000000000,
+      "effective_balances_sum_wei": 35687825000000000000000000,
+      "el_apr": 0.0017155579506659,
+      "el_avgapr31d": 0.0023968109941006027,
+      "el_avgapr7d": 0.0017393227636200857,
+      "end_balances_sum_wei": 35754541355352397000000000,
+      "start_balances_sum_wei": 35751907201081565000000000,
+      "total_rewards_wei": 2829540897189417546777,
+      "tx_fees_sum_wei": 167738443618417546777
+    }
+  },
+  "1710": {
+    "status": "OK",
+    "data": {
+      "apr": 0.0291965882988382,
+      "avgapr31d": 0.029572193442846784,
+      "avgapr7d": 0.02892807683468317,
+      "avgconsensus_rewards31d_wei": 2658581298144322580645,
+      "avgconsensus_rewards7d_wei": 2659911311099571428571,
+      "avgtx_fees31d_wei": 232551082040893863293,
+      "avgtx_fees7d_wei": 168451249686369352432,
+      "cl_apr": 0.0272654758334799,
+      "cl_avgapr31d": 0.027193518000940983,
+      "cl_avgapr7d": 0.027205178237552568,
+      "consensus_rewards_sum_wei": 2665811382881000000000,
+      "day": 1710,
+      "day_end": "2025-08-08T12:00:23Z",
+      "day_start": "2025-08-07T12:00:23Z",
+      "deposits_sum_wei": 3411486189028000000000,
+      "effective_balances_sum_wei": 35686931000000000000000000,
+      "el_apr": 0.0019311124653583,
+      "el_avgapr31d": 0.0023786754419058056,
+      "el_avgapr7d": 0.0017228985971306143,
+      "end_balances_sum_wei": 35754536046060984000000000,
+      "start_balances_sum_wei": 35751060690002152000000000,
+      "total_rewards_wei": 2854620909742589607185,
+      "tx_fees_sum_wei": 188809526861589607185
+    }
+  },
+  "1711": {
+    "status": "OK",
+    "data": {
+      "apr": 0.0293352027475938,
+      "avgapr31d": 0.029563174173742584,
+      "avgapr7d": 0.028951946656036242,
+      "avgconsensus_rewards31d_wei": 2658180167674064516129,
+      "avgconsensus_rewards7d_wei": 2660931012687428571429,
+      "avgtx_fees31d_wei": 232348132056464541439,
+      "avgtx_fees7d_wei": 169802650482996119973,
+      "cl_apr": 0.0271927656404376,
+      "cl_avgapr31d": 0.027186786769426194,
+      "cl_avgapr7d": 0.027215253066096585,
+      "consensus_rewards_sum_wei": 2658736751143000000000,
+      "day": 1711,
+      "day_end": "2025-08-09T12:00:23Z",
+      "day_start": "2025-08-08T12:00:23Z",
+      "deposits_sum_wei": 3734332490544000000000,
+      "effective_balances_sum_wei": 35687393000000000000000000,
+      "el_apr": 0.0021424371071561,
+      "el_avgapr31d": 0.0023763874043163957,
+      "el_avgapr7d": 0.001736693589939657,
+      "end_balances_sum_wei": 35755142986296734000000000,
+      "start_balances_sum_wei": 35751562357775954000000000,
+      "total_rewards_wei": 2868210710104271127273,
+      "tx_fees_sum_wei": 209473958961271127273
+    }
+  },
+  "1712": {
+    "status": "OK",
+    "data": {
+      "apr": 0.0291218933551688,
+      "avgapr31d": 0.02952933596900579,
+      "avgapr7d": 0.029011963395062762,
+      "avgconsensus_rewards31d_wei": 2658188905895548387097,
+      "avgconsensus_rewards7d_wei": 2661744240461142857143,
+      "avgtx_fees31d_wei": 229244720583367203793,
+      "avgtx_fees7d_wei": 174913096450364155865,
+      "cl_apr": 0.0272152698292179,
+      "cl_avgapr31d": 0.02718489887937317,
+      "cl_avgapr7d": 0.02722303297100396,
+      "consensus_rewards_sum_wei": 2660977332170000000000,
+      "day": 1712,
+      "day_end": "2025-08-10T12:00:23Z",
+      "day_start": "2025-08-09T12:00:23Z",
+      "deposits_sum_wei": 2391689271731000000000,
+      "effective_balances_sum_wei": 35687933000000000000000000,
+      "el_apr": 0.0019066235259509,
+      "el_avgapr31d": 0.0023444370896326277,
+      "el_avgapr7d": 0.0017889304240587998,
+      "end_balances_sum_wei": 35754586804217732000000000,
+      "start_balances_sum_wei": 35752104817076254000000000,
+      "total_rewards_wei": 2847397750390164020729,
+      "tx_fees_sum_wei": 186420418220164020729
+    }
+  },
+  "1713": {
+    "status": "OK",
+    "data": {
+      "apr": 0.029093409663246,
+      "avgapr31d": 0.029446157287358405,
+      "avgapr7d": 0.028968059211873846,
+      "avgconsensus_rewards31d_wei": 2657165531119838709677,
+      "avgconsensus_rewards7d_wei": 2648471242910857142857,
+      "avgtx_fees31d_wei": 222301505723395877442,
+      "avgtx_fees7d_wei": 183752602299559305340,
+      "cl_apr": 0.027234893931868,
+      "cl_avgapr31d": 0.02717297024038977,
+      "cl_avgapr7d": 0.027088632355675657,
+      "consensus_rewards_sum_wei": 2662031056924000000000,
+      "day": 1713,
+      "day_end": "2025-08-11T12:00:23Z",
+      "day_start": "2025-08-10T12:00:23Z",
+      "deposits_sum_wei": 987090328106000000000,
+      "effective_balances_sum_wei": 35676340000000000000000000,
+      "el_apr": 0.001858515731378,
+      "el_avgapr31d": 0.0022731870469686415,
+      "el_avgapr7d": 0.0018794268561981857,
+      "end_balances_sum_wei": 35741546266230678000000000,
+      "start_balances_sum_wei": 35740586296112491000000000,
+      "total_rewards_wei": 2843688698370544986761,
+      "tx_fees_sum_wei": 181657641446544986761
+    }
+  },
+  "1714": {
+    "status": "OK",
+    "data": {
+      "apr": 0.0294204855309979,
+      "avgapr31d": 0.029445443979398488,
+      "avgapr7d": 0.029185836932489283,
+      "avgconsensus_rewards31d_wei": 2658261405591774193548,
+      "avgconsensus_rewards7d_wei": 2662417021882142857143,
+      "avgtx_fees31d_wei": 221199086775860796001,
+      "avgtx_fees7d_wei": 190767935924178799118,
+      "cl_apr": 0.027226881909044,
+      "cl_avgapr31d": 0.027183596242615037,
+      "cl_avgapr7d": 0.027234410904613572,
+      "consensus_rewards_sum_wei": 2660131259465000000000,
+      "day": 1714,
+      "day_end": "2025-08-12T12:00:23Z",
+      "day_start": "2025-08-11T12:00:23Z",
+      "deposits_sum_wei": 853016419000000000000,
+      "effective_balances_sum_wei": 35661370000000000000000000,
+      "el_apr": 0.0021936036219539,
+      "el_avgapr31d": 0.0022618477367834545,
+      "el_avgapr7d": 0.0019514260278757003,
+      "end_balances_sum_wei": 35725864353437616000000000,
+      "start_balances_sum_wei": 35725625285070798000000000,
+      "total_rewards_wei": 2874451561919346405799,
+      "tx_fees_sum_wei": 214320302454346405799
+    }
+  },
+  "1715": {
+    "status": "OK",
+    "data": {
+      "apr": 0.0305299268501162,
+      "avgapr31d": 0.029499128820074893,
+      "avgapr7d": 0.029376693654144196,
+      "avgconsensus_rewards31d_wei": 2658113152873193548387,
+      "avgconsensus_rewards7d_wei": 2661368270153000000000,
+      "avgtx_fees31d_wei": 226560303736427134181,
+      "avgtx_fees7d_wei": 210155763811441869266,
+      "cl_apr": 0.0272272472035842,
+      "cl_avgapr31d": 0.027182388332672305,
+      "cl_avgapr7d": 0.027226617932859177,
+      "consensus_rewards_sum_wei": 2660087654917000000000,
+      "day": 1715,
+      "day_end": "2025-08-13T12:00:23Z",
+      "day_start": "2025-08-12T12:00:23Z",
+      "deposits_sum_wei": 2654685421049000000000,
+      "effective_balances_sum_wei": 35660307000000000000000000,
+      "el_apr": 0.003302679646532,
+      "el_avgapr31d": 0.0023167404874025973,
+      "el_avgapr7d": 0.0021500757212850143,
+      "end_balances_sum_wei": 35727074564577855000000000,
+      "start_balances_sum_wei": 35724590442121682000000000,
+      "total_rewards_wei": 2982757710034759390338,
+      "tx_fees_sum_wei": 322670055117759390338
+    }
+  },
+  "1716": {
+    "status": "OK",
+    "data": {
+      "apr": 0.0300389699776246,
+      "avgapr31d": 0.029493740031824138,
+      "avgapr7d": 0.0295337823462265,
+      "avgconsensus_rewards31d_wei": 2657732517823032258065,
+      "avgconsensus_rewards7d_wei": 2660981752765142857143,
+      "avgtx_fees31d_wei": 226331489460394245035,
+      "avgtx_fees7d_wei": 225555047363508192048,
+      "cl_apr": 0.0272186009185686,
+      "cl_avgapr31d": 0.027179260399678638,
+      "cl_avgapr7d": 0.027225876466600026,
+      "consensus_rewards_sum_wei": 2659096831856000000000,
+      "day": 1716,
+      "day_end": "2025-08-14T12:00:23Z",
+      "day_start": "2025-08-13T12:00:23Z",
+      "deposits_sum_wei": 508418939170000000000,
+      "effective_balances_sum_wei": 35658348000000000000000000,
+      "el_apr": 0.002820369059056,
+      "el_avgapr31d": 0.00231447963214551,
+      "el_avgapr7d": 0.0023079058796264575,
+      "end_balances_sum_wei": 35722488739520388000000000,
+      "start_balances_sum_wei": 35722581074397970000000000,
+      "total_rewards_wei": 2934630260338881806252,
+      "tx_fees_sum_wei": 275533428482881806252
+    }
+  },
+  "1717": {
+    "status": "OK",
+    "data": {
+      "apr": 0.0298162689238128,
+      "avgapr31d": 0.02947825137454829,
+      "avgapr7d": 0.0296223081497943,
+      "avgconsensus_rewards31d_wei": 2656569464514935483871,
+      "avgconsensus_rewards7d_wei": 2656604759423571428571,
+      "avgtx_fees31d_wei": 225868955709549424554,
+      "avgtx_fees7d_wei": 238230607228324801440,
+      "cl_apr": 0.0269752176509307,
+      "cl_avgapr31d": 0.027168393057373254,
+      "cl_avgapr7d": 0.027184411011950144,
+      "consensus_rewards_sum_wei": 2635172429490000000000,
+      "day": 1717,
+      "day_end": "2025-08-15T12:00:23Z",
+      "day_start": "2025-08-14T12:00:23Z",
+      "deposits_sum_wei": 4818032126383000000000,
+      "effective_balances_sum_wei": 35656355000000000000000000,
+      "el_apr": 0.0028410512728821,
+      "el_avgapr31d": 0.0023098583171750424,
+      "el_avgapr7d": 0.002437897137844143,
+      "end_balances_sum_wei": 35725086391325592000000000,
+      "start_balances_sum_wei": 35720572288014989000000000,
+      "total_rewards_wei": 2912710875405305872928,
+      "tx_fees_sum_wei": 277538445915305872928
+    }
+  },
+  "1718": {
+    "status": "OK",
+    "data": {
+      "apr": 0.02936600364484,
+      "avgapr31d": 0.02944465004542195,
+      "avgapr7d": 0.02962670827797233,
+      "avgconsensus_rewards31d_wei": 2656494152280483870968,
+      "avgconsensus_rewards7d_wei": 2654877866090857142857,
+      "avgtx_fees31d_wei": 222520946269394963688,
+      "avgtx_fees7d_wei": 240061852337728278284,
+      "cl_apr": 0.0270906528782451,
+      "cl_avgapr31d": 0.027168903649471075,
+      "cl_avgapr7d": 0.02716982347449407,
+      "consensus_rewards_sum_wei": 2646648497814000000000,
+      "day": 1718,
+      "day_end": "2025-08-16T12:00:23Z",
+      "day_start": "2025-08-15T12:00:23Z",
+      "deposits_sum_wei": 2348158412703000000000,
+      "effective_balances_sum_wei": 35659041000000000000000000,
+      "el_apr": 0.0022753507665949,
+      "el_avgapr31d": 0.002275746395950888,
+      "el_avgapr7d": 0.002456884803478257,
+      "end_balances_sum_wei": 35725675477195578000000000,
+      "start_balances_sum_wei": 35723237294238420000000000,
+      "total_rewards_wei": 2868941172541095465183,
+      "tx_fees_sum_wei": 222292674727095465183
+    }
+  },
+  "1719": {
+    "status": "OK",
+    "data": {
+      "apr": 0.0284020334705275,
+      "avgapr31d": 0.029362894925256802,
+      "avgapr7d": 0.029523871151595,
+      "avgconsensus_rewards31d_wei": 2655379218653741935484,
+      "avgconsensus_rewards7d_wei": 2652908538225285714286,
+      "avgtx_fees31d_wei": 215491253835990974047,
+      "avgtx_fees7d_wei": 231660984584607943976,
+      "cl_apr": 0.0270958137310602,
+      "cl_avgapr31d": 0.027158918377408362,
+      "cl_avgapr7d": 0.027152758317614403,
+      "consensus_rewards_sum_wei": 2647192037111000000000,
+      "day": 1719,
+      "day_end": "2025-08-17T12:00:23Z",
+      "day_start": "2025-08-16T12:00:23Z",
+      "deposits_sum_wei": 1440000000000000000000,
+      "effective_balances_sum_wei": 35659571000000000000000000,
+      "el_apr": 0.0013062197394673,
+      "el_avgapr31d": 0.0022039765478484457,
+      "el_avgapr7d": 0.0023711128339806006,
+      "end_balances_sum_wei": 35725745100582495000000000,
+      "start_balances_sum_wei": 35724191346461054000000000,
+      "total_rewards_wei": 2774806381059321680568,
+      "tx_fees_sum_wei": 127614343948321680568
+    }
+  },
+  "1720": {
+    "status": "OK",
+    "data": {
+      "apr": 0.0290163258549139,
+      "avgapr31d": 0.029286575793114153,
+      "avgapr7d": 0.02951285917897613,
+      "avgconsensus_rewards31d_wei": 2654839210995064516129,
+      "avgconsensus_rewards7d_wei": 2651450207082142857143,
+      "avgtx_fees31d_wei": 208398809573945128313,
+      "avgtx_fees7d_wei": 231811530264287833243,
+      "cl_apr": 0.0271459602422868,
+      "cl_avgapr31d": 0.02715496505343398,
+      "cl_avgapr7d": 0.02714005350481708,
+      "consensus_rewards_sum_wei": 2651822738922000000000,
+      "day": 1720,
+      "day_end": "2025-08-18T12:00:23Z",
+      "day_start": "2025-08-17T12:00:23Z",
+      "deposits_sum_wei": 983020689273000000000,
+      "effective_balances_sum_wei": 35655961000000000000000000,
+      "el_apr": 0.001870365612627,
+      "el_avgapr31d": 0.0021316107396801742,
+      "el_avgapr7d": 0.002372805674159029,
+      "end_balances_sum_wei": 35721467701569043000000000,
+      "start_balances_sum_wei": 35720627622599301000000000,
+      "total_rewards_wei": 2834534200126304211631,
+      "tx_fees_sum_wei": 182711461204304211631
+    }
+  },
+  "1721": {
+    "status": "OK",
+    "data": {
+      "apr": 0.0300443189545564,
+      "avgapr31d": 0.029305104689672266,
+      "avgapr7d": 0.029601978239484485,
+      "avgconsensus_rewards31d_wei": 2657077330448290322581,
+      "avgconsensus_rewards7d_wei": 2661161386871714285714,
+      "avgtx_fees31d_wei": 207798123672462469590,
+      "avgtx_fees7d_wei": 230621149775466361431,
+      "cl_apr": 0.0279350642173796,
+      "cl_avgapr31d": 0.02717950754114811,
+      "cl_avgapr7d": 0.02724122240600788,
+      "consensus_rewards_sum_wei": 2728109517992000000000,
+      "day": 1721,
+      "day_end": "2025-08-19T12:00:23Z",
+      "day_start": "2025-08-18T12:00:23Z",
+      "deposits_sum_wei": 2829200000000000000000,
+      "effective_balances_sum_wei": 35645523000000000000000000,
+      "el_apr": 0.0021092547371769,
+      "el_avgapr31d": 0.0021255971485241616,
+      "el_avgapr7d": 0.0023607558334766,
+      "end_balances_sum_wei": 35713021105834431000000000,
+      "start_balances_sum_wei": 35710171954021637000000000,
+      "total_rewards_wei": 2934097157024596103117,
+      "tx_fees_sum_wei": 205987639032596103117
+    }
+  },
+  "1722": {
+    "status": "OK",
+    "data": {
+      "apr": 0.0285580243282184,
+      "avgapr31d": 0.029280469594676273,
+      "avgapr7d": 0.02932027787921337,
+      "avgconsensus_rewards31d_wei": 2654891646651258064516,
+      "avgconsensus_rewards7d_wei": 2651921604242142857143,
+      "avgtx_fees31d_wei": 207396835266102848042,
+      "avgtx_fees7d_wei": 212144605112681265266,
+      "cl_apr": 0.026578192134773,
+      "cl_avgapr31d": 0.027158848653924927,
+      "cl_avgapr7d": 0.02714850025332057,
+      "consensus_rewards_sum_wei": 2595409176510000000000,
+      "day": 1722,
+      "day_end": "2025-08-20T12:00:23Z",
+      "day_start": "2025-08-19T12:00:23Z",
+      "deposits_sum_wei": 10307263542445000000000,
+      "effective_balances_sum_wei": 35642919000000000000000000,
+      "el_apr": 0.0019798321934454,
+      "el_avgapr31d": 0.002121620940751358,
+      "el_avgapr7d": 0.0021717776258928,
+      "end_balances_sum_wei": 35718139897280729000000000,
+      "start_balances_sum_wei": 35707962178786345000000000,
+      "total_rewards_wei": 2788743418988263717183,
+      "tx_fees_sum_wei": 193334242478263717183
+    }
+  },
+  "1723": {
+    "status": "OK",
+    "data": {
+      "apr": 0.0294580072644476,
+      "avgapr31d": 0.029260554083546886,
+      "avgapr7d": 0.029237283205902374,
+      "avgconsensus_rewards31d_wei": 2655031722047709677419,
+      "avgconsensus_rewards7d_wei": 2652558604055428571429,
+      "avgtx_fees31d_wei": 205171396921144742424,
+      "avgtx_fees7d_wei": 203319338534616739170,
+      "cl_apr": 0.0272695614132335,
+      "cl_avgapr31d": 0.027161579378618936,
+      "cl_avgapr7d": 0.027155780323986987,
+      "consensus_rewards_sum_wei": 2663555830549000000000,
+      "day": 1723,
+      "day_end": "2025-08-21T12:00:23Z",
+      "day_start": "2025-08-20T12:00:23Z",
+      "deposits_sum_wei": 9549320958920000000000,
+      "effective_balances_sum_wei": 35651394000000000000000000,
+      "el_apr": 0.002188445851214,
+      "el_avgapr31d": 0.002098974704927955,
+      "el_avgapr7d": 0.0020815028819153717,
+      "end_balances_sum_wei": 35726957277718352000000000,
+      "start_balances_sum_wei": 35717221799482609000000000,
+      "total_rewards_wei": 2877312392985430123581,
+      "tx_fees_sum_wei": 213756562436430123581
+    }
+  },
+  "1724": {
+    "status": "OK",
+    "data": {
+      "apr": 0.0292494552830681,
+      "avgapr31d": 0.029234900809670557,
+      "avgapr7d": 0.029156309828653127,
+      "avgconsensus_rewards31d_wei": 2655352122336967741935,
+      "avgconsensus_rewards7d_wei": 2655714742734857142857,
+      "avgtx_fees31d_wei": 202225022890887275887,
+      "avgtx_fees7d_wei": 192241400798300962179,
+      "cl_apr": 0.0272021489933847,
+      "cl_avgapr31d": 0.02716596603424047,
+      "cl_avgapr7d": 0.027188199087194703,
+      "consensus_rewards_sum_wei": 2657265400246000000000,
+      "day": 1724,
+      "day_end": "2025-08-22T12:00:23Z",
+      "day_start": "2025-08-21T12:00:23Z",
+      "deposits_sum_wei": 2345241498944000000000,
+      "effective_balances_sum_wei": 35655340000000000000000000,
+      "el_apr": 0.0020473062896834,
+      "el_avgapr31d": 0.0020689347754300935,
+      "el_avgapr7d": 0.0019681107414584145,
+      "end_balances_sum_wei": 35726393759811418000000000,
+      "start_balances_sum_wei": 35726529026060098000000000,
+      "total_rewards_wei": 2857258282007095433988,
+      "tx_fees_sum_wei": 199992881761095433988
+    }
+  },
+  "1725": {
+    "status": "OK",
+    "data": {
+      "apr": 0.0303280414745379,
+      "avgapr31d": 0.029260928917079695,
+      "avgapr7d": 0.029293743804324257,
+      "avgconsensus_rewards31d_wei": 2656010204078903225806,
+      "avgconsensus_rewards7d_wei": 2658211895438714285714,
+      "avgtx_fees31d_wei": 203988022722602234999,
+      "avgtx_fees7d_wei": 203128491419777246044,
+      "cl_apr": 0.0272723147271264,
+      "cl_avgapr31d": 0.027173841518139286,
+      "cl_avgapr7d": 0.02721415077989203,
+      "consensus_rewards_sum_wei": 2664128566741000000000,
+      "day": 1725,
+      "day_end": "2025-08-23T12:00:23Z",
+      "day_start": "2025-08-22T12:00:23Z",
+      "deposits_sum_wei": 960737304852000000000,
+      "effective_balances_sum_wei": 35655460000000000000000000,
+      "el_apr": 0.0030557267474115,
+      "el_avgapr31d": 0.00208708739894042,
+      "el_avgapr7d": 0.0020795930244322143,
+      "end_balances_sum_wei": 35724640872832712000000000,
+      "start_balances_sum_wei": 35724234731400170000000000,
+      "total_rewards_wei": 2962630875818429452240,
+      "tx_fees_sum_wei": 298502309077429452240
+    }
+  },
+  "1726": {
+    "status": "OK",
+    "data": {
+      "apr": 0.0284161325768216,
+      "avgapr31d": 0.029179253032287064,
+      "avgapr7d": 0.029295757962366272,
+      "avgconsensus_rewards31d_wei": 2651882153277580645161,
+      "avgconsensus_rewards7d_wei": 2658939936740714285714,
+      "avgtx_fees31d_wei": 200017288247161940837,
+      "avgtx_fees7d_wei": 202545656565985484170,
+      "cl_apr": 0.0271515083739077,
+      "cl_avgapr31d": 0.02713271375159629,
+      "cl_avgapr7d": 0.02722210715744167,
+      "consensus_rewards_sum_wei": 2652288326225000000000,
+      "day": 1726,
+      "day_end": "2025-08-24T12:00:23Z",
+      "day_start": "2025-08-23T12:00:23Z",
+      "deposits_sum_wei": 1984089179730000000000,
+      "effective_balances_sum_wei": 35654934000000000000000000,
+      "el_apr": 0.0012646242029139,
+      "el_avgapr31d": 0.002046539280690775,
+      "el_avgapr7d": 0.0020736508049245856,
+      "end_balances_sum_wei": 35724700744934336000000000,
+      "start_balances_sum_wei": 35723650355172056000000000,
+      "total_rewards_wei": 2775822826196779347450,
+      "tx_fees_sum_wei": 123534499971779347450
+    }
+  },
+  "1727": {
+    "status": "OK",
+    "data": {
+      "apr": 0.0294238015201061,
+      "avgapr31d": 0.029214301895990495,
+      "avgapr7d": 0.029353968771679444,
+      "avgconsensus_rewards31d_wei": 2656707003118935483871,
+      "avgconsensus_rewards7d_wei": 2660798157248428571429,
+      "avgtx_fees31d_wei": 198514110691979632184,
+      "avgtx_fees7d_wei": 206370142454923486867,
+      "cl_apr": 0.0272793649694671,
+      "cl_avgapr31d": 0.027183053749782134,
+      "cl_avgapr7d": 0.027241164975610282,
+      "consensus_rewards_sum_wei": 2664830282476000000000,
+      "day": 1727,
+      "day_end": "2025-08-25T12:00:23Z",
+      "day_start": "2025-08-24T12:00:23Z",
+      "deposits_sum_wei": 932522620067000000000,
+      "effective_balances_sum_wei": 35655634000000000000000000,
+      "el_apr": 0.002144436550639,
+      "el_avgapr31d": 0.0020312481462083616,
+      "el_avgapr7d": 0.002112803796069157,
+      "end_balances_sum_wei": 35724913296134279000000000,
+      "start_balances_sum_wei": 35724264261058510000000000,
+      "total_rewards_wei": 2874313144902870230507,
+      "tx_fees_sum_wei": 209482862426870230507
+    }
+  },
+  "1728": {
+    "status": "OK",
+    "data": {
+      "apr": 0.0292909151496211,
+      "avgapr31d": 0.029233676835375588,
+      "avgapr7d": 0.02924633965668869,
+      "avgconsensus_rewards31d_wei": 2657164298888580645161,
+      "avgconsensus_rewards7d_wei": 2651119264766428571429,
+      "avgtx_fees31d_wei": 199861796141627058053,
+      "avgtx_fees7d_wei": 205659274313415684785,
+      "cl_apr": 0.0272332242498455,
+      "cl_avgapr31d": 0.027188581899791484,
+      "cl_avgapr7d": 0.027140902123105413,
+      "consensus_rewards_sum_wei": 2660357270618000000000,
+      "day": 1728,
+      "day_end": "2025-08-26T12:00:23Z",
+      "day_start": "2025-08-25T12:00:23Z",
+      "deposits_sum_wei": 1047645649967000000000,
+      "effective_balances_sum_wei": 35656094000000000000000000,
+      "el_apr": 0.0020576908997756,
+      "el_avgapr31d": 0.0020450949355841,
+      "el_avgapr7d": 0.002105437533583257,
+      "end_balances_sum_wei": 35725386831275844000000000,
+      "start_balances_sum_wei": 35724778159999555000000000,
+      "total_rewards_wei": 2861368832660041488545,
+      "tx_fees_sum_wei": 201011562042041488545
+    }
+  },
+  "1729": {
+    "status": "OK",
+    "data": {
+      "apr": 0.0288866140016674,
+      "avgapr31d": 0.02924193498441174,
+      "avgapr7d": 0.029293281038609974,
+      "avgconsensus_rewards31d_wei": 2657364036485193548387,
+      "avgconsensus_rewards7d_wei": 2660122800674571428571,
+      "avgtx_fees31d_wei": 200377409551557610459,
+      "avgtx_fees7d_wei": 201401008413105173676,
+      "cl_apr": 0.0272126983774873,
+      "cl_avgapr31d": 0.02719151274040525,
+      "cl_avgapr7d": 0.0272315458720646,
+      "consensus_rewards_sum_wei": 2658433927867000000000,
+      "day": 1729,
+      "day_end": "2025-08-27T12:00:23Z",
+      "day_start": "2025-08-26T12:00:23Z",
+      "deposits_sum_wei": 393690678727000000000,
+      "effective_balances_sum_wei": 35657191000000000000000000,
+      "el_apr": 0.0016739156241801,
+      "el_avgapr31d": 0.0020504222440064905,
+      "el_avgapr7d": 0.002061735166545357,
+      "end_balances_sum_wei": 35726055477157273000000000,
+      "start_balances_sum_wei": 35725907159212177000000000,
+      "total_rewards_wei": 2821960309043090139421,
+      "tx_fees_sum_wei": 163526381176090139421
+    }
+  },
+  "1730": {
+    "status": "OK",
+    "data": {
+      "apr": 0.0293419643750117,
+      "avgapr31d": 0.029257217783152115,
+      "avgapr7d": 0.029276703482976275,
+      "avgconsensus_rewards31d_wei": 2657431481045548387097,
+      "avgconsensus_rewards7d_wei": 2659263052989857142857,
+      "avgtx_fees31d_wei": 201721918387772168996,
+      "avgtx_fees7d_wei": 200696252906471702901,
+      "cl_apr": 0.0272043113230522,
+      "cl_avgapr31d": 0.027192983161151766,
+      "cl_avgapr7d": 0.02722222443061013,
+      "consensus_rewards_sum_wei": 2657537596756000000000,
+      "day": 1730,
+      "day_end": "2025-08-28T12:00:23Z",
+      "day_start": "2025-08-27T12:00:23Z",
+      "deposits_sum_wei": 232536893651000000000,
+      "effective_balances_sum_wei": 35656158000000000000000000,
+      "el_apr": 0.0021376530519595,
+      "el_avgapr31d": 0.0020642346220003513,
+      "el_avgapr7d": 0.002054479052366143,
+      "end_balances_sum_wei": 35718736079595208000000000,
+      "start_balances_sum_wei": 35724856549405585000000000,
+      "total_rewards_wei": 2866360870645995828157,
+      "tx_fees_sum_wei": 208823273889995828157
+    }
+  },
+  "1731": {
+    "status": "OK",
+    "data": {
+      "apr": 0.0284704285091267,
+      "avgapr31d": 0.02923561034412193,
+      "avgapr7d": 0.029165413943841787,
+      "avgconsensus_rewards31d_wei": 2656277032501838709677,
+      "avgconsensus_rewards7d_wei": 2652962452948428571429,
+      "avgtx_fees31d_wei": 200674195150770191747,
+      "avgtx_fees7d_wei": 196108924310313313817,
+      "cl_apr": 0.0267517708177314,
+      "cl_avgapr31d": 0.02718203571946941,
+      "cl_avgapr7d": 0.027157884691231086,
+      "consensus_rewards_sum_wei": 2613161199956000000000,
+      "day": 1731,
+      "day_end": "2025-08-29T12:00:23Z",
+      "day_start": "2025-08-28T12:00:23Z",
+      "deposits_sum_wei": 352000000000000000000,
+      "effective_balances_sum_wei": 35653858000000000000000000,
+      "el_apr": 0.0017186576913953,
+      "el_avgapr31d": 0.0020535746246525223,
+      "el_avgapr7d": 0.0020075292526107,
+      "end_balances_sum_wei": 35717812323041086000000000,
+      "start_balances_sum_wei": 35717354277623708000000000,
+      "total_rewards_wei": 2781042781543986710398,
+      "tx_fees_sum_wei": 167881581587986710398
+    }
+  },
+  "1732": {
+    "status": "OK",
+    "data": {
+      "apr": 0.0282516263482059,
+      "avgapr31d": 0.029195343231211025,
+      "avgapr7d": 0.028868783211508642,
+      "avgconsensus_rewards31d_wei": 2654427128606645161290,
+      "avgconsensus_rewards7d_wei": 2644451208753285714286,
+      "avgtx_fees31d_wei": 198468749130673040832,
+      "avgtx_fees7d_wei": 175526145126737535931,
+      "cl_apr": 0.0266703505443612,
+      "cl_avgapr31d": 0.027164254911976243,
+      "cl_avgapr7d": 0.027071889807978915,
+      "consensus_rewards_sum_wei": 2604549857375000000000,
+      "day": 1732,
+      "day_end": "2025-08-30T12:00:23Z",
+      "day_start": "2025-08-29T12:00:23Z",
+      "deposits_sum_wei": 1056000000000000000000,
+      "effective_balances_sum_wei": 35644852000000000000000000,
+      "el_apr": 0.0015812758038447,
+      "el_avgapr31d": 0.0020310883192347804,
+      "el_avgapr7d": 0.0017968934035297282,
+      "end_balances_sum_wei": 35709468002598096000000000,
+      "start_balances_sum_wei": 35708377556926944000000000,
+      "total_rewards_wei": 2758972712167399007039,
+      "tx_fees_sum_wei": 154422854792399007039
+    }
+  },
+  "1733": {
+    "status": "OK",
+    "data": {
+      "apr": 0.0312693889027181,
+      "avgapr31d": 0.029249631386233828,
+      "avgapr7d": 0.029276391258065283,
+      "avgconsensus_rewards31d_wei": 2663763835150903225806,
+      "avgconsensus_rewards7d_wei": 2686895604535428571429,
+      "avgtx_fees31d_wei": 194251844224960366567,
+      "avgtx_fees7d_wei": 172465327305928587785,
+      "cl_apr": 0.030223060616201,
+      "cl_avgapr31d": 0.027261607649961134,
+      "cl_avgapr7d": 0.027510682985449387,
+      "consensus_rewards_sum_wei": 2949399096700000000000,
+      "day": 1733,
+      "day_end": "2025-08-31T12:00:23Z",
+      "day_start": "2025-08-30T12:00:23Z",
+      "deposits_sum_wei": 2944000000000000000000,
+      "effective_balances_sum_wei": 35619512000000000000000000,
+      "el_apr": 0.001046328286517,
+      "el_avgapr31d": 0.00198802373627269,
+      "el_avgapr7d": 0.001765708272615886,
+      "end_balances_sum_wei": 35685181802423768000000000,
+      "start_balances_sum_wei": 35682986477285215000000000,
+      "total_rewards_wei": 3051507871926116710429,
+      "tx_fees_sum_wei": 102108775226116710429
+    }
+  },
+  "1734": {
+    "status": "OK",
+    "data": {
+      "apr": 0.0258188701140912,
+      "avgapr31d": 0.029143375698832963,
+      "avgapr7d": 0.028761401057206013,
+      "avgconsensus_rewards31d_wei": 2654963232833032258065,
+      "avgconsensus_rewards7d_wei": 2645285335653714285714,
+      "avgtx_fees31d_wei": 192514852676283523844,
+      "avgtx_fees7d_wei": 163425422499677770943,
+      "cl_apr": 0.0243207881420215,
+      "cl_avgapr31d": 0.027173029370905908,
+      "cl_avgapr7d": 0.02708802915295716,
+      "consensus_rewards_sum_wei": 2373558400304000000000,
+      "day": 1734,
+      "day_end": "2025-09-01T12:00:23Z",
+      "day_start": "2025-08-31T12:00:23Z",
+      "deposits_sum_wei": 33265087799925000000000,
+      "effective_balances_sum_wei": 35621741000000000000000000,
+      "el_apr": 0.0014980819720697,
+      "el_avgapr31d": 0.0019703463279270484,
+      "el_avgapr7d": 0.0016733719042488428,
+      "end_balances_sum_wei": 35716975939519609000000000,
+      "start_balances_sum_wei": 35684297643365040000000000,
+      "total_rewards_wei": 2519761929087114512612,
+      "tx_fees_sum_wei": 146203528783114512612
+    }
+  },
+  "1735": {
+    "status": "OK",
+    "data": {
+      "apr": 0.0307235985594155,
+      "avgapr31d": 0.029193552620165,
+      "avgapr7d": 0.028966070115748067,
+      "avgconsensus_rewards31d_wei": 2654702636020967741935,
+      "avgconsensus_rewards7d_wei": 2642880059687428571429,
+      "avgtx_fees31d_wei": 197592027122487739961,
+      "avgtx_fees7d_wei": 185767565238988194599,
+      "cl_apr": 0.0270644572090953,
+      "cl_avgapr31d": 0.027171165350533835,
+      "cl_avgapr7d": 0.02706391957570713,
+      "consensus_rewards_sum_wei": 2643520338854000000000,
+      "day": 1735,
+      "day_end": "2025-09-02T12:00:23Z",
+      "day_start": "2025-09-01T12:00:23Z",
+      "deposits_sum_wei": 384000000000000000000,
+      "effective_balances_sum_wei": 35651368000000000000000000,
+      "el_apr": 0.0036591413503202,
+      "el_avgapr31d": 0.0020223872696311577,
+      "el_avgapr7d": 0.0019021505400409287,
+      "end_balances_sum_wei": 35714011962317895000000000,
+      "start_balances_sum_wei": 35713595586663399000000000,
+      "total_rewards_wei": 3000926900071214454135,
+      "tx_fees_sum_wei": 357406561217214454135
+    }
+  },
+  "1736": {
+    "status": "OK",
+    "data": {
+      "apr": 0.0288095183249791,
+      "avgapr31d": 0.029197028173164868,
+      "avgapr7d": 0.028955056447649747,
+      "avgconsensus_rewards31d_wei": 2655115576093838709677,
+      "avgconsensus_rewards7d_wei": 2644258909994000000000,
+      "avgtx_fees31d_wei": 197437022309323624821,
+      "avgtx_fees7d_wei": 183241246105332488987,
+      "cl_apr": 0.0273163593057058,
+      "cl_avgapr31d": 0.0271761830541093,
+      "cl_avgapr7d": 0.027078728279738343,
+      "consensus_rewards_sum_wei": 2668085880013000000000,
+      "day": 1736,
+      "day_end": "2025-09-03T12:00:23Z",
+      "day_start": "2025-09-02T12:00:23Z",
+      "deposits_sum_wei": 4616000000000000000000,
+      "effective_balances_sum_wei": 35650847000000000000000000,
+      "el_apr": 0.0014931590192733,
+      "el_avgapr31d": 0.002020845119055558,
+      "el_avgapr7d": 0.0018763281679113858,
+      "end_balances_sum_wei": 35716682727449555000000000,
+      "start_balances_sum_wei": 35713033584212667000000000,
+      "total_rewards_wei": 2813928027253500200136,
+      "tx_fees_sum_wei": 145842147240500200136
+    }
+  },
+  "1737": {
+    "status": "OK",
+    "data": {
+      "apr": 0.028670091607768,
+      "avgapr31d": 0.02917345890420357,
+      "avgapr7d": 0.028859074623757787,
+      "avgconsensus_rewards31d_wei": 2651818479346451612903,
+      "avgconsensus_rewards7d_wei": 2643572401972714285714,
+      "avgtx_fees31d_wei": 198340666938757933327,
+      "avgtx_fees7d_wei": 174522790408853442695,
+      "cl_apr": 0.0271570652194287,
+      "cl_avgapr31d": 0.027143323924440348,
+      "cl_avgapr7d": 0.027071978836363555,
+      "consensus_rewards_sum_wei": 2652732040607000000000,
+      "day": 1737,
+      "day_end": "2025-09-04T12:00:23Z",
+      "day_start": "2025-09-03T12:00:23Z",
+      "deposits_sum_wei": 640000000000000000000,
+      "effective_balances_sum_wei": 35653602000000000000000000,
+      "el_apr": 0.0015130263883392,
+      "el_avgapr31d": 0.0020301349797631997,
+      "el_avgapr7d": 0.0017870957873941998,
+      "end_balances_sum_wei": 35716609320826790000000000,
+      "start_balances_sum_wei": 35715853445587855000000000,
+      "total_rewards_wei": 2800526124621642504119,
+      "tx_fees_sum_wei": 147794084014642504119
+    }
+  },
+  "1738": {
+    "status": "OK",
+    "data": {
+      "apr": 0.0287798231533251,
+      "avgapr31d": 0.02920196799022406,
+      "avgapr7d": 0.028903273858643275,
+      "avgconsensus_rewards31d_wei": 2654862250009774193548,
+      "avgconsensus_rewards7d_wei": 2649816187297428571429,
+      "avgtx_fees31d_wei": 197990337720920115924,
+      "avgtx_fees7d_wei": 172590101800432142619,
+      "cl_apr": 0.0271996393008799,
+      "cl_avgapr31d": 0.027175362867485557,
+      "cl_avgapr7d": 0.027135960048241915,
+      "consensus_rewards_sum_wei": 2656867697229000000000,
+      "day": 1738,
+      "day_end": "2025-09-05T12:00:23Z",
+      "day_start": "2025-09-04T12:00:23Z",
+      "deposits_sum_wei": 2176000000000000000000,
+      "effective_balances_sum_wei": 35653293000000000000000000,
+      "el_apr": 0.0015801838524452,
+      "el_avgapr31d": 0.002026605122738487,
+      "el_avgapr7d": 0.0017673138104013285,
+      "end_balances_sum_wei": 35717854541306739000000000,
+      "start_balances_sum_wei": 35715629572522201000000000,
+      "total_rewards_wei": 2811220458558037609863,
+      "tx_fees_sum_wei": 154352761329037609863
+    }
+  },
+  "1739": {
+    "status": "OK",
+    "data": {
+      "apr": 0.0287138222056245,
+      "avgapr31d": 0.029186480648517373,
+      "avgapr7d": 0.0289693018382745,
+      "avgconsensus_rewards31d_wei": 2654560549378806451613,
+      "avgconsensus_rewards7d_wei": 2657462807309714285714,
+      "avgtx_fees31d_wei": 196697265680381919409,
+      "avgtx_fees7d_wei": 171511126351551399805,
+      "cl_apr": 0.0272103353307892,
+      "cl_avgapr31d": 0.02717305761990246,
+      "cl_avgapr7d": 0.027213100732017343,
+      "consensus_rewards_sum_wei": 2658076197461000000000,
+      "day": 1739,
+      "day_end": "2025-09-06T12:00:23Z",
+      "day_start": "2025-09-05T12:00:23Z",
+      "deposits_sum_wei": 924406108797000000000,
+      "effective_balances_sum_wei": 35655489000000000000000000,
+      "el_apr": 0.0015034868748353,
+      "el_avgapr31d": 0.00201342302861489,
+      "el_avgapr7d": 0.0017562011062571285,
+      "end_balances_sum_wei": 35718915148050925000000000,
+      "start_balances_sum_wei": 35717891427223788000000000,
+      "total_rewards_wei": 2804946224111233807342,
+      "tx_fees_sum_wei": 146870026650233807342
+    }
+  },
+  "1740": {
+    "status": "OK",
+    "data": {
+      "apr": 0.0281334231290454,
+      "avgapr31d": 0.02916048303548502,
+      "avgapr7d": 0.02852130672774983,
+      "avgconsensus_rewards31d_wei": 2654446844460193548387,
+      "avgconsensus_rewards7d_wei": 2615874022223142857143,
+      "avgtx_fees31d_wei": 194191216354919522614,
+      "avgtx_fees7d_wei": 169788574823403762047,
+      "cl_apr": 0.0272116117563501,
+      "cl_avgapr31d": 0.027172664735191737,
+      "cl_avgapr7d": 0.026782893752038645,
+      "consensus_rewards_sum_wei": 2658277601094000000000,
+      "day": 1740,
+      "day_end": "2025-09-07T12:00:23Z",
+      "day_start": "2025-09-06T12:00:23Z",
+      "deposits_sum_wei": 64000000000000000000,
+      "effective_balances_sum_wei": 35656518000000000000000000,
+      "el_apr": 0.0009218113726953,
+      "el_avgapr31d": 0.0019878183002932574,
+      "el_avgapr7d": 0.0017384129757111713,
+      "end_balances_sum_wei": 35718699490308562000000000,
+      "start_balances_sum_wei": 35718936586061203000000000,
+      "total_rewards_wei": 2748328515623083246121,
+      "tx_fees_sum_wei": 90050914529083246121
+    }
+  },
+  "1741": {
+    "status": "OK",
+    "data": {
+      "apr": 0.0282961952798337,
+      "avgapr31d": 0.029131438099388094,
+      "avgapr7d": 0.0288752103228559,
+      "avgconsensus_rewards31d_wei": 2654284991239387096774,
+      "avgconsensus_rewards7d_wei": 2656907669756285714286,
+      "avgtx_fees31d_wei": 191436214887291001906,
+      "avgtx_fees7d_wei": 163674425192259612421,
+      "cl_apr": 0.0272376774171965,
+      "cl_avgapr31d": 0.02717176801208582,
+      "cl_avgapr7d": 0.02719959221992079,
+      "consensus_rewards_sum_wei": 2660793933036000000000,
+      "day": 1741,
+      "day_end": "2025-09-08T12:00:23Z",
+      "day_start": "2025-09-07T12:00:23Z",
+      "deposits_sum_wei": 97753000000000000000,
+      "effective_balances_sum_wei": 35656116000000000000000000,
+      "el_apr": 0.0010585178626372,
+      "el_avgapr31d": 0.0019596700873022546,
+      "el_avgapr7d": 0.0016756181029351,
+      "end_balances_sum_wei": 35718757910595516000000000,
+      "start_balances_sum_wei": 35718566751357159000000000,
+      "total_rewards_wei": 2764198414401105465229,
+      "tx_fees_sum_wei": 103404481365105465229
+    }
+  },
+  "1742": {
+    "status": "OK",
+    "data": {
+      "apr": 0.0286455050775036,
+      "avgapr31d": 0.029109189787449703,
+      "avgapr7d": 0.02857833982543992,
+      "avgconsensus_rewards31d_wei": 2654447949060290322581,
+      "avgconsensus_rewards7d_wei": 2659803113290142857143,
+      "avgtx_fees31d_wei": 189019059190167418343,
+      "avgtx_fees7d_wei": 131836649639863267093,
+      "cl_apr": 0.0272682455898228,
+      "cl_avgapr31d": 0.027174202849162762,
+      "cl_avgapr7d": 0.027228704845739003,
+      "consensus_rewards_sum_wei": 2663788443591000000000,
+      "day": 1742,
+      "day_end": "2025-09-09T12:00:23Z",
+      "day_start": "2025-09-08T12:00:23Z",
+      "deposits_sum_wei": 640000000000000000000,
+      "effective_balances_sum_wei": 35656228000000000000000000,
+      "el_apr": 0.0013772594876808,
+      "el_avgapr31d": 0.0019349869382869224,
+      "el_avgapr7d": 0.0013496349797009002,
+      "end_balances_sum_wei": 35719307016382770000000000,
+      "start_balances_sum_wei": 35718710669766723000000000,
+      "total_rewards_wei": 2798330575941440036838,
+      "tx_fees_sum_wei": 134542132350440036838
+    }
+  },
+  "1743": {
+    "status": "OK",
+    "data": {
+      "apr": 0.0282003422350934,
+      "avgapr31d": 0.029079462331963398,
+      "avgapr7d": 0.028491314669741957,
+      "avgconsensus_rewards31d_wei": 2653337630313322580645,
+      "avgconsensus_rewards7d_wei": 2653870480576000000000,
+      "avgtx_fees31d_wei": 187129524447633704817,
+      "avgtx_fees7d_wei": 129265605920023081560,
+      "cl_apr": 0.0268914309387785,
+      "cl_avgapr31d": 0.027163756433342137,
+      "cl_avgapr7d": 0.027168000793320816,
+      "consensus_rewards_sum_wei": 2626557451014000000000,
+      "day": 1743,
+      "day_end": "2025-09-10T12:00:23Z",
+      "day_start": "2025-09-09T12:00:23Z",
+      "deposits_sum_wei": 238260470627000000000,
+      "effective_balances_sum_wei": 35650519000000000000000000,
+      "el_apr": 0.001308911296315,
+      "el_avgapr31d": 0.0019157058986212483,
+      "el_avgapr7d": 0.001323313876421143,
+      "end_balances_sum_wei": 35712064469300099000000000,
+      "start_balances_sum_wei": 35712864977377481000000000,
+      "total_rewards_wei": 2754402292215618901411,
+      "tx_fees_sum_wei": 127844841201618901411
+    }
+  },
+  "1744": {
+    "status": "OK",
+    "data": {
+      "apr": 0.0283269956643284,
+      "avgapr31d": 0.02905473929974025,
+      "avgapr7d": 0.0284423009635363,
+      "avgconsensus_rewards31d_wei": 2652202706762870967742,
+      "avgconsensus_rewards7d_wei": 2650172821469285714286,
+      "avgtx_fees31d_wei": 185782047973512958376,
+      "avgtx_fees7d_wei": 128135861167760130559,
+      "cl_apr": 0.0268947849682645,
+      "cl_avgapr31d": 0.027152785176451706,
+      "cl_avgapr7d": 0.027130532186011642,
+      "consensus_rewards_sum_wei": 2626848426860000000000,
+      "day": 1744,
+      "day_end": "2025-09-11T12:00:23Z",
+      "day_start": "2025-09-10T12:00:23Z",
+      "deposits_sum_wei": 6837780027545000000000,
+      "effective_balances_sum_wei": 35650022000000000000000000,
+      "el_apr": 0.0014322106960639,
+      "el_avgapr31d": 0.0019019541232885356,
+      "el_avgapr7d": 0.0013117687775246714,
+      "end_balances_sum_wei": 35719202217385362000000000,
+      "start_balances_sum_wei": 35712240086336068000000000,
+      "total_rewards_wei": 2766734297608801847111,
+      "tx_fees_sum_wei": 139885870748801847111
+    }
+  },
+  "1745": {
+    "status": "OK",
+    "data": {
+      "apr": 0.0287238950209846,
+      "avgapr31d": 0.02903226863812692,
+      "avgapr7d": 0.0284343112303448,
+      "avgconsensus_rewards31d_wei": 2651977942075193548387,
+      "avgconsensus_rewards7d_wei": 2649643658171857142857,
+      "avgtx_fees31d_wei": 183793712106384467371,
+      "avgtx_fees7d_wei": 127897165345520926954,
+      "cl_apr": 0.0271608657369993,
+      "cl_avgapr31d": 0.02715065562251477,
+      "cl_avgapr7d": 0.027124993105457268,
+      "consensus_rewards_sum_wei": 2653163554147000000000,
+      "day": 1745,
+      "day_end": "2025-09-12T12:00:23Z",
+      "day_start": "2025-09-11T12:00:23Z",
+      "deposits_sum_wei": 308189635612000000000,
+      "effective_balances_sum_wei": 35654412000000000000000000,
+      "el_apr": 0.0015630292839853,
+      "el_avgapr31d": 0.001881613015612129,
+      "el_avgapr7d": 0.0013093181248875429,
+      "end_balances_sum_wei": 35717098890539818000000000,
+      "start_balances_sum_wei": 35716654446498485000000000,
+      "total_rewards_wei": 2805845444720363184628,
+      "tx_fees_sum_wei": 152681890573363184628
+    }
+  },
+  "1746": {
+    "status": "OK",
+    "data": {
+      "apr": 0.0284537812295098,
+      "avgapr31d": 0.02896529619875252,
+      "avgapr7d": 0.028397162519471275,
+      "avgconsensus_rewards31d_wei": 2651848431653483870968,
+      "avgconsensus_rewards7d_wei": 2649357463083714285714,
+      "avgtx_fees31d_wei": 177361316131480055454,
+      "avgtx_fees7d_wei": 124525130094876471748,
+      "cl_apr": 0.0271918344053903,
+      "cl_avgapr31d": 0.027149513274185945,
+      "cl_avgapr7d": 0.02712235011611457,
+      "consensus_rewards_sum_wei": 2656072831844000000000,
+      "day": 1746,
+      "day_end": "2025-09-13T12:00:23Z",
+      "day_start": "2025-09-12T12:00:23Z",
+      "deposits_sum_wei": 2080000000000000000000,
+      "effective_balances_sum_wei": 35652857000000000000000000,
+      "el_apr": 0.0012619468241196,
+      "el_avgapr31d": 0.0018157829245665678,
+      "el_avgapr7d": 0.0012748124033567284,
+      "end_balances_sum_wei": 35717362227566029000000000,
+      "start_balances_sum_wei": 35715089233927519000000000,
+      "total_rewards_wei": 2779338611739722620899,
+      "tx_fees_sum_wei": 123265779895722620899
+    }
+  },
+  "1747": {
+    "status": "OK",
+    "data": {
+      "apr": 0.0282956174282737,
+      "avgapr31d": 0.0289090590197412,
+      "avgapr7d": 0.028420333133646745,
+      "avgconsensus_rewards31d_wei": 2651888314837838709677,
+      "avgconsensus_rewards7d_wei": 2649651121580428571429,
+      "avgtx_fees31d_wei": 171820595176059063177,
+      "avgtx_fees7d_wei": 126485153571411871687,
+      "cl_apr": 0.0272333323477503,
+      "cl_avgapr31d": 0.0271499884815789,
+      "cl_avgapr7d": 0.027125453057743172,
+      "consensus_rewards_sum_wei": 2660333210571000000000,
+      "day": 1747,
+      "day_end": "2025-09-14T12:00:23Z",
+      "day_start": "2025-09-13T12:00:23Z",
+      "deposits_sum_wei": 688312679580000000000,
+      "effective_balances_sum_wei": 35655630000000000000000000,
+      "el_apr": 0.0010622850805234,
+      "el_avgapr31d": 0.0017590705381622903,
+      "el_avgapr7d": 0.0012948800759035998,
+      "end_balances_sum_wei": 35718830064519681000000000,
+      "start_balances_sum_wei": 35717924981503243000000000,
+      "total_rewards_wei": 2764104289435831045693,
+      "tx_fees_sum_wei": 103771078864831045693
+    }
+  },
+  "1748": {
+    "status": "OK",
+    "data": {
+      "apr": 0.0284463906976671,
+      "avgapr31d": 0.02886486939954295,
+      "avgapr7d": 0.02844178962190866,
+      "avgconsensus_rewards31d_wei": 2652799857878741935484,
+      "avgconsensus_rewards7d_wei": 2650027740255000000000,
+      "avgtx_fees31d_wei": 166588866791577896511,
+      "avgtx_fees7d_wei": 128192351375881048980,
+      "cl_apr": 0.0272655042909155,
+      "cl_avgapr31d": 0.027159352566739698,
+      "cl_avgapr7d": 0.02712942832541731,
+      "consensus_rewards_sum_wei": 2663430263758000000000,
+      "day": 1748,
+      "day_end": "2025-09-15T12:00:23Z",
+      "day_start": "2025-09-14T12:00:23Z",
+      "deposits_sum_wei": 544000000000000000000,
+      "effective_balances_sum_wei": 35655018000000000000000000,
+      "el_apr": 0.0011808864067516,
+      "el_avgapr31d": 0.0017055168328032418,
+      "el_avgapr7d": 0.0013123612964913713,
+      "end_balances_sum_wei": 35718113795593806000000000,
+      "start_balances_sum_wei": 35717422760914595000000000,
+      "total_rewards_wei": 2778785129754389706281,
+      "tx_fees_sum_wei": 115354865996389706281
+    }
+  },
+  "1749": {
+    "status": "OK",
+    "data": {
+      "apr": 0.0286508285621552,
+      "avgapr31d": 0.02884179923558538,
+      "avgapr7d": 0.028442550119716026,
+      "avgconsensus_rewards31d_wei": 2653237856866032258065,
+      "avgconsensus_rewards7d_wei": 2649518886373428571429,
+      "avgtx_fees31d_wei": 163886354946968248171,
+      "avgtx_fees7d_wei": 128759876403560524665,
+      "cl_apr": 0.0272328468282997,
+      "cl_avgapr31d": 0.027163939468354367,
+      "cl_avgapr7d": 0.027124371359485443,
+      "consensus_rewards_sum_wei": 2660226466420000000000,
+      "day": 1749,
+      "day_end": "2025-09-16T12:00:23Z",
+      "day_start": "2025-09-15T12:00:23Z",
+      "deposits_sum_wei": 576000000000000000000,
+      "effective_balances_sum_wei": 35654835000000000000000000,
+      "el_apr": 0.0014179817338555,
+      "el_avgapr31d": 0.0016778597672310032,
+      "el_avgapr7d": 0.0013181787602306143,
+      "end_balances_sum_wei": 35717593841292409000000000,
+      "start_balances_sum_wei": 35717251838554837000000000,
+      "total_rewards_wei": 2798741273964196366633,
+      "tx_fees_sum_wei": 138514807544196366633
+    }
+  },
+  "1750": {
+    "status": "OK",
+    "data": {
+      "apr": 0.0285617203470004,
+      "avgapr31d": 0.02884695042514902,
+      "avgapr7d": 0.02849417556427417,
+      "avgconsensus_rewards31d_wei": 2653863582759258064516,
+      "avgconsensus_rewards7d_wei": 2655237756200142857143,
+      "avgtx_fees31d_wei": 163754052743258960959,
+      "avgtx_fees7d_wei": 128141038465234078320,
+      "cl_apr": 0.0272973427659795,
+      "cl_avgapr31d": 0.027170440404964667,
+      "cl_avgapr7d": 0.0271823587633713,
+      "consensus_rewards_sum_wei": 2666589539801000000000,
+      "day": 1750,
+      "day_end": "2025-09-17T12:00:23Z",
+      "day_start": "2025-09-16T12:00:23Z",
+      "deposits_sum_wei": 2290321393812000000000,
+      "effective_balances_sum_wei": 35655675000000000000000000,
+      "el_apr": 0.0012643775810209,
+      "el_avgapr31d": 0.0016765100201843455,
+      "el_avgapr7d": 0.0013118168009028858,
+      "end_balances_sum_wei": 35720573876191192000000000,
+      "start_balances_sum_wei": 35718120859043523000000000,
+      "total_rewards_wei": 2790102515434333776996,
+      "tx_fees_sum_wei": 123512975633333776996
+    }
+  },
+  "1751": {
+    "status": "OK",
+    "data": {
+      "apr": 0.0295350489665769,
+      "avgapr31d": 0.028863683428751053,
+      "avgapr7d": 0.02866675460745253,
+      "avgconsensus_rewards31d_wei": 2654289275481580645161,
+      "avgconsensus_rewards7d_wei": 2660690725693571428571,
+      "avgtx_fees31d_wei": 164970536130636657651,
+      "avgtx_fees7d_wei": 139646263531549930030,
+      "cl_apr": 0.0272788301583612,
+      "cl_avgapr31d": 0.02717472653128965,
+      "cl_avgapr7d": 0.027237222361956547,
+      "consensus_rewards_sum_wei": 2665019213314000000000,
+      "day": 1751,
+      "day_end": "2025-09-18T12:00:23Z",
+      "day_start": "2025-09-17T12:00:23Z",
+      "deposits_sum_wei": 236701933246000000000,
+      "effective_balances_sum_wei": 35658861000000000000000000,
+      "el_apr": 0.0022562188082157,
+      "el_avgapr31d": 0.0016889568974614003,
+      "el_avgapr7d": 0.001429532245496,
+      "end_balances_sum_wei": 35720160278852342000000000,
+      "start_balances_sum_wei": 35721299170908437000000000,
+      "total_rewards_wei": 2885441659527012809082,
+      "tx_fees_sum_wei": 220422446213012809082
+    }
+  },
+  "1752": {
+    "status": "OK",
+    "data": {
+      "apr": 0.0287016111075339,
+      "avgapr31d": 0.02882037027239549,
+      "avgapr7d": 0.028663571191245286,
+      "avgconsensus_rewards31d_wei": 2652364268949290322581,
+      "avgconsensus_rewards7d_wei": 2662872263028428571429,
+      "avgtx_fees31d_wei": 162691825075459730660,
+      "avgtx_fees7d_wei": 137169935781371098854,
+      "cl_apr": 0.0273160917639611,
+      "cl_avgapr31d": 0.02715475967795357,
+      "cl_avgapr7d": 0.02725939750866537,
+      "consensus_rewards_sum_wei": 2668434315491000000000,
+      "day": 1752,
+      "day_end": "2025-09-19T12:00:23Z",
+      "day_start": "2025-09-18T12:00:23Z",
+      "deposits_sum_wei": 516025857646000000000,
+      "effective_balances_sum_wei": 35655852000000000000000000,
+      "el_apr": 0.0013855193435728,
+      "el_avgapr31d": 0.0016656105944419133,
+      "el_avgapr7d": 0.0014041736825799287,
+      "end_balances_sum_wei": 35718500963560598000000000,
+      "start_balances_sum_wei": 35718267337741511000000000,
+      "total_rewards_wei": 2803781911813111366396,
+      "tx_fees_sum_wei": 135347596322111366396
+    }
+  },
+  "1753": {
+    "status": "OK",
+    "data": {
+      "apr": 0.0283133184839454,
+      "avgapr31d": 0.02881247653548346,
+      "avgapr7d": 0.028643505084736086,
+      "avgconsensus_rewards31d_wei": 2654513980708096774194,
+      "avgconsensus_rewards7d_wei": 2663726178626857142857,
+      "avgtx_fees31d_wei": 159806635182959015443,
+      "avgtx_fees7d_wei": 134402446626373802360,
+      "cl_apr": 0.0272498240313499,
+      "cl_avgapr31d": 0.027176425223004445,
+      "cl_avgapr7d": 0.027267681740945317,
+      "consensus_rewards_sum_wei": 2662050241033000000000,
+      "day": 1753,
+      "day_end": "2025-09-20T12:00:23Z",
+      "day_start": "2025-09-19T12:00:23Z",
+      "deposits_sum_wei": 995010000000000000000,
+      "effective_balances_sum_wei": 35657050000000000000000000,
+      "el_apr": 0.0010634944525955,
+      "el_avgapr31d": 0.0016360513124790133,
+      "el_avgapr7d": 0.0013758233437907714,
+      "end_balances_sum_wei": 35719768555503420000000000,
+      "start_balances_sum_wei": 35719151349707345000000000,
+      "total_rewards_wei": 2765943596843741545442,
+      "tx_fees_sum_wei": 103893355810741545442
+    }
+  },
+  "1754": {
+    "status": "OK",
+    "data": {
+      "apr": 0.0279548993451237,
+      "avgapr31d": 0.028763989183247206,
+      "avgapr7d": 0.028594831072857516,
+      "avgconsensus_rewards31d_wei": 2653782846820870967742,
+      "avgconsensus_rewards7d_wei": 2660948674266000000000,
+      "avgtx_fees31d_wei": 155816098868652868668,
+      "avgtx_fees7d_wei": 132442283458960734912,
+      "cl_apr": 0.0270331155095994,
+      "cl_avgapr31d": 0.02716879793579044,
+      "cl_avgapr7d": 0.02723907933549519,
+      "consensus_rewards_sum_wei": 2640890680045000000000,
+      "day": 1754,
+      "day_end": "2025-09-21T12:00:23Z",
+      "day_start": "2025-09-20T12:00:23Z",
+      "deposits_sum_wei": 128000000000000000000,
+      "effective_balances_sum_wei": 35657196000000000000000000,
+      "el_apr": 0.0009217838355243,
+      "el_avgapr31d": 0.0015951912474567649,
+      "el_avgapr7d": 0.0013557517373623284,
+      "end_balances_sum_wei": 35719118720975496000000000,
+      "start_balances_sum_wei": 35719068486351434000000000,
+      "total_rewards_wei": 2730940616737939573557,
+      "tx_fees_sum_wei": 90049936692939573557
+    }
+  },
+  "1755": {
+    "status": "OK",
+    "data": {
+      "apr": 0.0289695853728591,
+      "avgapr31d": 0.02875496112162756,
+      "avgapr7d": 0.028669573169313515,
+      "avgconsensus_rewards31d_wei": 2653426275739290322581,
+      "avgconsensus_rewards7d_wei": 2658488878974428571429,
+      "avgtx_fees31d_wei": 155291782632466211697,
+      "avgtx_fees7d_wei": 142211456665092072287,
+      "cl_apr": 0.0270886887276219,
+      "cl_avgapr31d": 0.027165137927217444,
+      "cl_avgapr7d": 0.027213819969310386,
+      "consensus_rewards_sum_wei": 2646211696717000000000,
+      "day": 1755,
+      "day_end": "2025-09-22T12:00:23Z",
+      "day_start": "2025-09-21T12:00:23Z",
+      "deposits_sum_wei": 2527948643805000000000,
+      "effective_balances_sum_wei": 35655741000000000000000000,
+      "el_apr": 0.0018808966452372,
+      "el_avgapr31d": 0.001589823194410113,
+      "el_avgapr7d": 0.0014557532000031286,
+      "end_balances_sum_wei": 35720295277620544000000000,
+      "start_balances_sum_wei": 35717590252813897000000000,
+      "total_rewards_wei": 2829950775156309067902,
+      "tx_fees_sum_wei": 183739078439309067902
+    }
+  },
+  "1756": {
+    "status": "OK",
+    "data": {
+      "apr": 0.0285208137259525,
+      "avgapr31d": 0.02869666345231835,
+      "avgapr7d": 0.02865099962128456,
+      "avgconsensus_rewards31d_wei": 2653331524921741935484,
+      "avgconsensus_rewards7d_wei": 2658626711114000000000,
+      "avgtx_fees31d_wei": 149686652715076703452,
+      "avgtx_fees7d_wei": 140244095821400405144,
+      "cl_apr": 0.0272437629532579,
+      "cl_avgapr31d": 0.027164216902253943,
+      "cl_avgapr7d": 0.027215379415732984,
+      "consensus_rewards_sum_wei": 2661191291397000000000,
+      "day": 1756,
+      "day_end": "2025-09-23T12:00:23Z",
+      "day_start": "2025-09-22T12:00:23Z",
+      "deposits_sum_wei": 23374353665009000000000,
+      "effective_balances_sum_wei": 35653475000000000000000000,
+      "el_apr": 0.0012770507726947,
+      "el_avgapr31d": 0.0015324465500644098,
+      "el_avgapr7d": 0.0014356202055515858,
+      "end_balances_sum_wei": 35738909787518215000000000,
+      "start_balances_sum_wei": 35715348250806582000000000,
+      "total_rewards_wei": 2785934573035354696631,
+      "tx_fees_sum_wei": 124743281638354696631
+    }
+  },
+  "1757": {
+    "status": "OK",
+    "data": {
+      "apr": 0.0290506434671855,
+      "avgapr31d": 0.028717131545555896,
+      "avgapr7d": 0.028720845781311,
+      "avgconsensus_rewards31d_wei": 2653509981844580645161,
+      "avgconsensus_rewards7d_wei": 2657373989832857142857,
+      "avgtx_fees31d_wei": 151499644459515123499,
+      "avgtx_fees7d_wei": 148276134166548489703,
+      "cl_apr": 0.0272105108311286,
+      "cl_avgapr31d": 0.027166120207325586,
+      "cl_avgapr7d": 0.027202974853611426,
+      "consensus_rewards_sum_wei": 2657820490833000000000,
+      "day": 1757,
+      "day_end": "2025-09-24T12:00:23Z",
+      "day_start": "2025-09-23T12:00:23Z",
+      "deposits_sum_wei": 5710997949114000000000,
+      "effective_balances_sum_wei": 35651829000000000000000000,
+      "el_apr": 0.0018401326360569,
+      "el_avgapr31d": 0.0015510113382303128,
+      "el_avgapr7d": 0.0015178709276995855,
+      "end_balances_sum_wei": 35719658128521549000000000,
+      "start_balances_sum_wei": 35713719033943280000000000,
+      "total_rewards_wei": 2837557734882370368909,
+      "tx_fees_sum_wei": 179737244049370368909
+    }
+  },
+  "1758": {
+    "status": "OK",
+    "data": {
+      "apr": 0.0288085451464941,
+      "avgapr31d": 0.028697284565761958,
+      "avgapr7d": 0.02861705952129917,
+      "avgconsensus_rewards31d_wei": 2653549660070774193548,
+      "avgconsensus_rewards7d_wei": 2657522717572000000000,
+      "avgtx_fees31d_wei": 149520572391875004388,
+      "avgtx_fees7d_wei": 137948874468979022418,
+      "cl_apr": 0.0272921394429404,
+      "cl_avgapr31d": 0.027166532287115047,
+      "cl_avgapr7d": 0.027204876179979885,
+      "consensus_rewards_sum_wei": 2666060307488000000000,
+      "day": 1758,
+      "day_end": "2025-09-25T12:00:23Z",
+      "day_start": "2025-09-24T12:00:23Z",
+      "deposits_sum_wei": 8067200163596000000000,
+      "effective_balances_sum_wei": 35655395000000000000000000,
+      "el_apr": 0.0015164057035537,
+      "el_avgapr31d": 0.0015307522786469161,
+      "el_avgapr7d": 0.0014121833413193,
+      "end_balances_sum_wei": 35725612651960881000000000,
+      "start_balances_sum_wei": 35717340658223406000000000,
+      "total_rewards_wei": 2814191935818026538087,
+      "tx_fees_sum_wei": 148131628330026538087
+    }
+  },
+  "1759": {
+    "status": "OK",
+    "data": []
+  },
+  "1760": {
+    "status": "OK",
+    "data": []
+  },
+  "1761": {
+    "status": "OK",
+    "data": []
+  },
+  "1762": {
+    "status": "OK",
+    "data": []
+  },
+  "1763": {
+    "status": "OK",
+    "data": []
+  },
+  "1764": {
+    "status": "OK",
+    "data": []
+  },
+  "1765": {
+    "status": "OK",
+    "data": []
+  },
+  "1766": {
+    "status": "OK",
+    "data": []
+  },
+  "1767": {
+    "status": "OK",
+    "data": []
+  },
+  "1768": {
+    "status": "OK",
+    "data": []
+  },
+  "1769": {
+    "status": "OK",
+    "data": []
+  },
+  "1770": {
+    "status": "OK",
+    "data": []
+  },
+  "1771": {
+    "status": "OK",
+    "data": []
+  },
+  "1772": {
+    "status": "OK",
+    "data": []
+  },
+  "1773": {
+    "status": "OK",
+    "data": []
+  },
+  "1774": {
+    "status": "OK",
+    "data": []
+  },
+  "1775": {
+    "status": "OK",
+    "data": []
+  },
+  "1776": {
+    "status": "OK",
+    "data": []
+  },
+  "1777": {
+    "status": "OK",
+    "data": []
+  },
+  "1778": {
+    "status": "OK",
+    "data": []
+  },
+  "1779": {
+    "status": "OK",
+    "data": []
+  },
+  "1780": {
+    "status": "OK",
+    "data": []
+  },
+  "1781": {
+    "status": "OK",
+    "data": []
+  },
+  "1782": {
+    "status": "OK",
+    "data": []
+  },
+  "1783": {
+    "status": "OK",
+    "data": []
+  },
+  "1784": {
+    "status": "OK",
+    "data": []
+  },
+  "1785": {
+    "status": "OK",
+    "data": []
+  },
+  "1786": {
+    "status": "OK",
+    "data": []
+  },
+  "1787": {
+    "status": "OK",
+    "data": []
+  },
+  "1788": {
+    "status": "OK",
+    "data": []
+  },
+  "1789": {
+    "status": "OK",
+    "data": []
+  },
+  "1790": {
+    "status": "OK",
+    "data": []
+  },
+  "1791": {
+    "status": "OK",
+    "data": []
+  },
+  "1792": {
+    "status": "OK",
+    "data": []
+  },
+  "1793": {
+    "status": "OK",
+    "data": []
+  },
+  "1794": {
+    "status": "OK",
+    "data": []
+  },
+  "1795": {
+    "status": "OK",
+    "data": []
+  },
+  "1796": {
+    "status": "OK",
+    "data": []
+  },
+  "1797": {
+    "status": "OK",
+    "data": []
+  },
+  "1798": {
+    "status": "OK",
+    "data": []
+  },
+  "1799": {
+    "status": "OK",
+    "data": []
+  },
+  "1800": {
+    "status": "OK",
+    "data": []
+  },
+  "1801": {
+    "status": "OK",
+    "data": []
+  },
+  "1802": {
+    "status": "OK",
+    "data": []
+  },
+  "1803": {
+    "status": "OK",
+    "data": []
+  },
+  "1804": {
+    "status": "OK",
+    "data": []
+  },
+  "1805": {
+    "status": "OK",
+    "data": []
+  },
+  "1806": {
+    "status": "OK",
+    "data": []
+  },
+  "1807": {
+    "status": "OK",
+    "data": []
+  },
+  "1808": {
+    "status": "OK",
+    "data": []
+  },
+  "1809": {
+    "status": "OK",
+    "data": []
+  },
+  "1810": {
+    "status": "OK",
+    "data": []
+  },
+  "1811": {
+    "status": "OK",
+    "data": []
+  },
+  "1812": {
+    "status": "OK",
+    "data": []
+  },
+  "1813": {
+    "status": "OK",
+    "data": []
+  },
+  "1814": {
+    "status": "OK",
+    "data": []
+  },
+  "1815": {
+    "status": "OK",
+    "data": []
+  },
+  "1816": {
+    "status": "OK",
+    "data": []
+  },
+  "1817": {
+    "status": "OK",
+    "data": []
+  },
+  "1818": {
+    "status": "OK",
+    "data": []
+  },
+  "1819": {
+    "status": "OK",
+    "data": []
+  },
+  "1820": {
+    "status": "OK",
+    "data": []
+  },
+  "1821": {
+    "status": "OK",
+    "data": []
+  },
+  "1822": {
+    "status": "OK",
+    "data": []
+  },
+  "1823": {
+    "status": "OK",
+    "data": []
+  },
+  "1824": {
+    "status": "OK",
+    "data": []
+  },
+  "1825": {
+    "status": "OK",
+    "data": []
+  },
+  "1826": {
+    "status": "OK",
+    "data": []
+  },
+  "1827": {
+    "status": "OK",
+    "data": []
+  },
+  "1828": {
+    "status": "OK",
+    "data": []
+  },
+  "1829": {
+    "status": "OK",
+    "data": []
+  },
+  "1830": {
+    "status": "OK",
+    "data": []
+  },
+  "1831": {
+    "status": "OK",
+    "data": []
+  },
+  "1832": {
+    "status": "OK",
+    "data": []
+  },
+  "1833": {
+    "status": "OK",
+    "data": []
+  },
+  "1834": {
+    "status": "OK",
+    "data": []
+  },
+  "1835": {
+    "status": "OK",
+    "data": []
+  },
+  "1836": {
+    "status": "OK",
+    "data": []
+  },
+  "1837": {
+    "status": "OK",
+    "data": []
+  },
+  "1838": {
+    "status": "OK",
+    "data": []
+  },
+  "1839": {
+    "status": "OK",
+    "data": []
+  },
+  "1840": {
+    "status": "OK",
+    "data": []
+  },
+  "1841": {
+    "status": "OK",
+    "data": []
+  },
+  "1842": {
+    "status": "OK",
+    "data": []
+  },
+  "1843": {
+    "status": "OK",
+    "data": []
+  },
+  "1844": {
+    "status": "OK",
+    "data": []
+  },
+  "1845": {
+    "status": "OK",
+    "data": []
+  },
+  "1846": {
+    "status": "OK",
+    "data": []
+  },
+  "1847": {
+    "status": "OK",
+    "data": []
+  },
+  "1848": {
+    "status": "OK",
+    "data": []
+  },
+  "1849": {
+    "status": "OK",
+    "data": []
+  },
+  "1850": {
+    "status": "OK",
+    "data": []
+  }
+}
