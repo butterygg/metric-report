@@ -1,0 +1,56 @@
+[build-system]
+requires = ["setuptools>=69.5"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "binance-twap"
+version = "0.1.0"
+description = "Binance spot 12-hour TWAP calculator for BTCUSDT and ETHUSDT."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "httpx>=0.27.0",
+]
+
+[project.scripts]
+binance-twap = "binance_twap.cli:main"
+
+[project.optional-dependencies]
+dev = [
+    "mypy>=1.10.0",
+    "pytest>=8.3.0",
+    "ruff>=0.4.2",
+]
+
+[tool.uv]
+dev-dependencies = [
+    "mypy>=1.10.0",
+    "pytest>=8.3.0",
+    "ruff>=0.4.2",
+]
+
+[tool.ruff]
+target-version = "py311"
+line-length = 96
+
+[tool.ruff.lint]
+select = [
+    "E",
+    "F",
+    "I",
+    "UP",
+    "B",
+    "C4",
+    "SIM",
+]
+
+[tool.mypy]
+python_version = "3.11"
+strict = true
+disallow_any_unimported = true
+warn_unused_ignores = true
+warn_unreachable = true
+
+[tool.pytest.ini_options]
+addopts = "-q"
+testpaths = ["test"]
