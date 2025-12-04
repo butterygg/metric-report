@@ -1,0 +1,22 @@
+{
+  "question": "btc-us-shutdown-ends",
+  "asset_id": 1,
+  "convert_id": 2781,
+  "decision_time_epoch": 1762786800,
+  "decision_time_iso": "2025-11-10T15:00:00Z",
+  "window_start_epoch": 1762830000,
+  "window_start_iso": "2025-11-11T03:00:00Z",
+  "window_end_epoch": 1762873200,
+  "window_end_iso": "2025-11-11T15:00:00Z",
+  "observed_count": 144,
+  "median_price": "105147.958151311345",
+  "result_integer_times_100": 10514796,
+  "request_url": "https://api.coinmarketcap.com/data-api/v3/cryptocurrency/detail/chart?id=1&convertId=2781&range=1762830000~1762873200",
+  "decision_source": "operator-input",
+  "observed_range": {
+    "earliest_epoch": 1762830000,
+    "earliest_iso": "2025-11-11T03:00:00Z",
+    "latest_epoch": 1762872900,
+    "latest_iso": "2025-11-11T14:55:00Z"
+  }
+}
